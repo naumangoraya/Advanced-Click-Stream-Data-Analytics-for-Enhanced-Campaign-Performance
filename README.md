@@ -24,8 +24,8 @@ A modern web application for analyzing and visualizing e-commerce platform perfo
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [project-directory]
+git clone https://github.com/naumangoraya/Advanced-Click-Stream-Data-Analytics-for-Enhanced-Campaign-Performance.git
+cd Advanced-Click-Stream-Data-Analytics-for-Enhanced-Campaign-Performance
 ```
 
 2. Install dependencies:
